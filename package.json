@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "buffer-chunks": "^0.1.1",
+    "crc": "^4.1.0",
+    "pad-buffer": "^1.0.3",
+    "pushbullet": "^2.4.0",
+    "timecut": "^0.3.2"
+  }
+}
